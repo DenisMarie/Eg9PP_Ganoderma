@@ -4,7 +4,7 @@ This repository contains the source R code to implement survival models presente
 by [Sébastien Tisné] (https://www.researchgate.net/profile/Sebastien_Tisne) ([CIRAD](https://en.wikipedia.org/wiki/Centre_de_coop%C3%A9ration_internationale_en_recherche_agronomique_pour_le_d%C3%A9veloppement)), Virginie Pomiès, Virginie Riou, Indra Syahputra, Benoît Cochard and Marie Denis for predicting spatial effects and mapping resistance QTL.
 R code was created by [Marie Denis](https://www.researchgate.net/profile/Marie_Denis2) (CIRAD).
 
-The project hence is currently funded, and the copyright owned, by [PalmeLit] (http://www.palmelit.com/en/) and CIRAD.
+The project hence is currently funded, and the copyright owned, by [PalmElit] (http://www.palmelit.com/en/) and CIRAD.
 Document is under the [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license, and all R code are under the [GNU AGPL v3](https://www.gnu.org/licenses/agpl.html).
 
 R code:
@@ -14,7 +14,7 @@ R code:
   4. MappingQTL.R -- function to map resistance QTL
   
 Data:
-  1. KIN_Eg9PP.Rdata -- list of IBD matrices
+  1. KIN_Eg9PP_10.Rdata -- list of IBD matrices for the 10th positions
   2. Eg9PP_Phenotypes -- matrix with survival times, censoring indicators, and additional covariates for all palms
   3. Eg9PP_Phenotypes_Mapping -- matrix with survival times, censoring indicators, and additional covariates for fully genotyped palms
   4. Eg9PP_Pedigree: matrix with palm, father, and mother identifiers
