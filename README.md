@@ -17,7 +17,6 @@ Data:
   1. KIN_Eg9PP.Rdata -- list of IBD matrices
   2. Eg9PP_Phenotypes -- matrix with survival times, censoring indicators, and additional covariates for all palms
   3. Eg9PP_Phenotypes_Mapping -- matrix with survival times, censoring indicators, and additional covariates for fully genotyped palms
-  4. Eg9PP_Pedigree: matrix with palme, father, and mother identifiers
-  5. Eg9PP_Map: matrix with indicators for fully genotyped palms
-  6. Eg9PP_Genotypes: matrix with genotypes
+  4. Eg9PP_Pedigree: matrix with palm, father, and mother identifiers
+
 
